@@ -8,4 +8,6 @@ Install the google package using the pip command and clone or download the repos
 
 **Usage**
 
-You can simple run `python search.py -d <domain[without protocol]> -o <output-file-path>`
+1. git clone https://github.com/ladecruze/Subdorker.git
+2. cd Subdorker
+3. You can simple run `python subdomain.py -d <domain[without protocol]> -o <output-file-path>`

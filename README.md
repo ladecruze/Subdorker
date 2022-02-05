@@ -4,8 +4,6 @@ Find list of subdomains using Google dorking
 
 requirement: `pip install google`
 
-Install the google package using the pip command and clone or download the repository. You are ready to use google-dork.
-
 **Usage**
 
 1. git clone https://github.com/ladecruze/Subdorker.git

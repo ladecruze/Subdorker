@@ -2,6 +2,7 @@ Find list of subdomains using Google dorking
 
 **Installation**
 
+Install python3 before running this!
 requirement: `pip install google`
 
 **Usage**
